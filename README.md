@@ -1,0 +1,2 @@
+# mini21
+AIpython
